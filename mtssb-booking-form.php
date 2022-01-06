@@ -86,7 +86,7 @@ class MTSSB_Booking_Form extends MTSSB_Booking {
 	}
 
 	/**
-	 * フォーム入力予約登録処理
+	 * フォーム入力予約登録処理  テストギュッと
 	 *
 	 */
 	public function front_booking() {
